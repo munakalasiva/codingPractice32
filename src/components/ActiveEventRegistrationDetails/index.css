@@ -1,0 +1,15 @@
+.last-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 50px;
+}
+.imgs {
+  height: 150px;
+  width: 250px;
+}
+.img1 {
+  height: 100px;
+  width: 100px;
+}

@@ -1,0 +1,20 @@
+.first-card {
+  background-color: #323f4b;
+  width: 60vw;
+  height: 100vh;
+  flex-wrap: wrap;
+  overflow-x: auto;
+  color: white;
+}
+.container {
+  height: 100vh;
+  display: flex;
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+.head {
+  font-size: 30px;
+  padding-left: 30px;
+}

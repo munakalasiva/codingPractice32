@@ -1,0 +1,16 @@
+.list-item {
+  list-style-type: none;
+}
+.img {
+  height: 150px;
+  width: 250px;
+  border: 2px solid transparent;
+}
+.event-btn {
+  background: transparent;
+  border: none;
+}
+.event-img {
+  height: 150px;
+  width: 250px;
+}
